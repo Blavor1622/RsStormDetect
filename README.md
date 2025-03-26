@@ -1,4 +1,4 @@
-# RustRADSI(Weather Radar Storm Identification with Rust)
+# RsStormDetect(Storm Detection with Rust)
 
 ![Rust Version](https://img.shields.io/badge/rust-1.70%2B-orange)
 ![License](https://img.shields.io/badge/license-MIT-blue)
@@ -27,7 +27,7 @@ This is a rust project for identifying active storms from input weather radar im
 
 ```sh
 # Clone the repository
-git clone https://github.com/Blavor1622/RustRADSI.git
+git clone https://github.com/Blavor1622/RsStormDetect.git
 
 # Navigate into the directory
 cd RustRADSI
