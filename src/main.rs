@@ -9,9 +9,9 @@ use storm::{merge_pixels, generate_result_image};
 
 fn main() {
     // Image paths
-    let original_radar_image_path = "Z_RADR_I_Z9200_202404241348_P_DOR_SA_R_10_230_15.200.png";
-    let base_image = String::from("base.png");
-    let output_path = String::from("result.png");
+    let original_radar_image_path = "data/input/Z_RADR_I_Z9200_202404241348_P_DOR_SA_R_10_230_15.200.png";
+    let base_image = String::from("data/base/base.png");
+    let output_path = String::from("data/output/result.png");
 
     // Copy legend from input radar image to base image
     copy_legend(&original_radar_image_path, &base_image);
