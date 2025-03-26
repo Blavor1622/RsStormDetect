@@ -14,11 +14,11 @@ This is a rust project for identifying active storms from input weather radar im
 
 ## Result Preview
 ### Input radar image
-![Input radar image](data\input\Z_RADR_I_Z9200_202404241348_P_DOR_SA_R_10_230_15.200.png)
+![Input radar image](.\data\input\Z_RADR_I_Z9200_202404241348_P_DOR_SA_R_10_230_15.200.png)
 ### Analysis result image
-![Analysis result image](data\output\result.png)
+![Analysis result image](.\data\output\result.png)
 ### Storm information list
-![Storm information list](data\storm_list_screenshot.png)
+![Storm information list](.\data\storm_list_screenshot.png)
 ## Installation
 
 ### Prerequisites
